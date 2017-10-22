@@ -1,0 +1,1273 @@
+﻿Log file open, 10/22/17 01:14:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Tutorial
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1015474890) SRandInit(-1015474890).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151327
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Programs/Unreal/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.22-05.14.23:938][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.22-05.14.23:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.22-05.14.23:952][  0]LogInit: Computer: DESKTOP-AK73KT9
+[2017.10.22-05.14.23:952][  0]LogInit: User: Jon
+[2017.10.22-05.14.23:952][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.22-05.14.23:952][  0]LogInit: High frequency timer resolution =4.101564 MHz
+[2017.10.22-05.14.23:952][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.10.22-05.14.23:952][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-05.14.23:952][  0]LogMemory: Process Physical Memory: 280.72 MB used, 280.72 MB peak
+[2017.10.22-05.14.23:952][  0]LogMemory: Process Virtual Memory: 274.46 MB used, 274.46 MB peak
+[2017.10.22-05.14.23:952][  0]LogMemory: Physical Memory: 7731.91 MB used,  8615.21 MB free, 16347.12 MB total
+[2017.10.22-05.14.23:952][  0]LogMemory: Virtual Memory: 688.76 MB used,  8615.21 MB free, 134217728.00 MB total
+[2017.10.22-05.14.24:030][  0]LogInit: Using OS detected language (en-US).
+[2017.10.22-05.14.24:030][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.22-05.14.24:032][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.22-05.14.24:535][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.22-05.14.24:993][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.22-05.14.24:993][  0]LogD3D11RHI:       8081/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.22-05.14.24:995][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.22-05.14.24:995][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.22-05.14.24:995][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.22-05.14.25:000][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.22-05.14.25:000][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.22-05.14.25:000][  0]LogWindows: EnumDisplayDevices:
+[2017.10.22-05.14.25:000][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.22-05.14.25:000][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.10.22-05.14.25:000][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.22-05.14.25:000][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.22-05.14.25:000][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.22-05.14.25:000][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.22-05.14.25:000][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.22-05.14.25:000][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.22-05.14.25:000][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.22-05.14.25:439][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.22-05.14.25:464][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.22-05.14.25:514][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Intermediate/Shaders/WorkingDirectory/10972/).
+[2017.10.22-05.14.25:514][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jon/AppData/Local/Temp/UnrealShaderWorkingDir/594AFF384095F8CED2085FBCFE78303C/'.
+[2017.10.22-05.14.25:514][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.22-05.14.26:131][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.22-05.14.26:160][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.22-05.14.26:188][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.22-05.14.26:216][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.22-05.14.26:245][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.22-05.14.26:275][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.22-05.14.26:307][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.22-05.14.26:339][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.22-05.14.26:365][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.22-05.14.26:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.22-05.14.26:424][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.22-05.14.26:454][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.22-05.14.26:484][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.22-05.14.26:511][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.22-05.14.26:539][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.22-05.14.26:594][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.22-05.14.26:594][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.22-05.14.26:615][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.22-05.14.26:674][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.22-05.14.26:690][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.22-05.14.26:717][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.22-05.14.26:745][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.22-05.14.26:772][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.22-05.14.26:800][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.22-05.14.26:800][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.22-05.14.27:049][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.22-05.14.27:106][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/Jon/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.22-05.14.27:106][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jon/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.22-05.14.27:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.22-05.14.27:107][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.22-05.14.27:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.22-05.14.27:107][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.22-05.14.27:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.22-05.14.27:130][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.22-05.14.27:137][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.22-05.14.27:137][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.22-05.14.27:137][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.22-05.14.27:138][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.22-05.14.27:330][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2017.10.22-05.14.27:400][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.22-05.14.27:488][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.22-05.14.27:658][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.22-05.14.27:679][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.22-05.14.27:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.22-05.14.27:679][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.22-05.14.27:679][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.22-05.14.27:679][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.22-05.14.27:897][  0]LogNetVersion: Tutorial , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2798285211)
+[2017.10.22-05.14.28:029][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.032375 seconds
+[2017.10.22-05.14.28:033][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.22-05.14.28:033][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.22-05.14.28:033][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.22-05.14.28:062][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.22-05.14.29:702][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.22-05.14.29:728][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.22-05.14.30:117][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.22-05.14.30:353][  0]SourceControl: Source control is disabled
+[2017.10.22-05.14.30:353][  0]SourceControl: Source control is disabled
+[2017.10.22-05.14.30:381][  0]SourceControl: Source control is disabled
+[2017.10.22-05.14.30:407][  0]SourceControl: Source control is disabled
+[2017.10.22-05.14.30:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.22-05.14.30:859][  0]LogOcInput: OculusInput pre-init called
+[2017.10.22-05.14.31:009][  0]LogEngine: Initializing Engine...
+[2017.10.22-05.14.31:010][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.22-05.14.31:156][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.22-05.14.31:156][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.22-05.14.31:226][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.22-05.14.31:232][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-05.14.31:260][  0]LogInit: FAudioDevice initialized.
+[2017.10.22-05.14.31:335][  0]LogDerivedDataCache: Saved boot cache 0.07s 93MB C:/Users/Jon/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.22-05.14.31:344][  0]LogInit: Texture streaming: Enabled
+[2017.10.22-05.14.31:398][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.22-05.14.31:516][  0]LogInit: Transaction tracking system initialized
+[2017.10.22-05.14.31:687][  0]BlueprintLog: New page: Editor Load
+[2017.10.22-05.14.32:149][  0]LocalizationService: Localization service is disabled
+[2017.10.22-05.14.32:515][  0]LogConsoleResponse: Display: 
+[2017.10.22-05.14.32:631][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.22-05.14.32:631][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.22-05.14.32:631][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.22-05.14.33:168][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/EndlessRunner/Tutorial/Content/' took 0.01s
+[2017.10.22-05.14.33:193][  0]SourceControl: Source control is disabled
+[2017.10.22-05.14.33:193][  0]Cmd: MAP LOAD FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-05.14.33:194][  0]LightingResults: New page: Lighting Build
+[2017.10.22-05.14.33:215][  0]MapCheck: New page: Map Check
+[2017.10.22-05.14.33:215][  0]LightingResults: New page: Lighting Build
+[2017.10.22-05.14.34:080][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.22-05.14.34:086][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-05.14.34:102][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-05.14.34:146][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.007ms to complete.
+[2017.10.22-05.14.34:146][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.953
+[2017.10.22-05.14.34:286][  0]LogCollectionManager: Loaded 0 collections in 0.000955 seconds
+[2017.10.22-05.14.34:348][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Collections/' took 0.01s
+[2017.10.22-05.14.34:348][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Developers/Jon/Collections/' took 0.01s
+[2017.10.22-05.14.34:348][  0]LogFileCache: Scanning file cache for directory 'D:/Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Collections/' took 0.01s
+[2017.10.22-05.14.34:348][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.22-05.14.34:354][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2386 classes and 500 folders.
+[2017.10.22-05.14.34:387][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.10.22-05.14.34:680][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2017.10.22-05.14.34:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.10.22-05.14.34:762][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.22-05.14.34:764][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.22-05.14.34:770][  0]LogSlate: Took 0.002750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.22-05.14.34:884][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2017.10.22-05.14.34:998][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.10.22-05.14.34:998][  0]LogLoad: (Engine Initialization) Total time: 12.27 seconds
+[2017.10.22-05.14.34:998][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.22-05.14.34:998][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.22-05.14.34:998][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.22-05.14.35:008][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.22-05.14.35:021][  0]LogAssetRegistry: Asset discovery search completed in 7.7137 seconds
+[2017.10.22-05.14.35:022][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.22-05.14.35:022][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2017.10.22-05.14.35:025][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.22-05.14.35:086][  0]LogSlate: Took 0.007915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-05.14.38:305][375]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-05.14.38:532][375]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2017.10.22-05.14.38:968][375]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.22-05.14.39:012][375]LogSlate: Took 0.000915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.22-05.14.59:546][571]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.22-05.15.01:213][725]LogRenderer: Reallocating scene render targets to support 1208x776 Format 10 NumSamples 1 (Frame:1).
+[2017.10.22-05.15.57:230][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-05.15.57:247][  7]LogSavePackage: Save=13.92ms
+[2017.10.22-05.15.57:247][  7]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP3AA774E843B7CE58D57AB0A76E0B5036.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-05.15.57:250][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-05.15.58:660][176]BlueprintLog: New page: Compile ItemBP
+[2017.10.22-05.19.59:508][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-05.19.59:560][231]LogSavePackage: Save=48.04ms
+[2017.10.22-05.19.59:560][231]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP7FCF181F4CC5ABA3D8D5E4A53E4E84B5.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-05.19.59:562][231]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-05.20.01:592][318]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.20.24:135][759]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.20.24:505][782]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.20.50:963][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-05.20.51:014][590]LogSavePackage: Save=48.56ms
+[2017.10.22-05.20.51:014][590]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP61B6BB074A4474469FA48BABB41BF90D.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-05.20.51:016][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-05.20.54:966][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-05.20.55:034][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.20.55:034][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-05.20.55:034][ 62]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2017, 9:20:55 PM)
+[2017.10.22-05.20.55:034][ 62]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.22-05.20.55:047][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012814s)
+[2017.10.22-05.20.55:048][ 62]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.22-05.20.55:048][ 62]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.10.22-05.20.55:048][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013869s)
+[2017.10.22-05.20.55:096][ 62]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-05.20.55:106][ 62]LogInit: FAudioDevice initialized.
+[2017.10.22-05.20.55:147][ 62]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-05.20.55:149][ 62]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.22-01.20.55
+[2017.10.22-05.20.55:149][ 62]LogWorld: Bringing up level for play took: 0.001871
+[2017.10.22-05.20.55:174][ 62]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.10.22-05.20.55:179][ 62]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.12
+[2017.10.22-05.20.55:179][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.20.57:666][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.20.57:696][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.21.27:235][ 38]LogEditorTransaction: Undo Move Node
+[2017.10.22-05.21.27:254][ 38]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.22-05.21.47:764][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-05.21.47:815][959]LogSavePackage: Save=49.24ms
+[2017.10.22-05.21.47:815][959]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBPE987A47143E0FB500D93BEA2695B0D9F.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-05.21.47:818][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-05.21.49:135][111]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.22.09:301][817]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-05.22.09:311][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.22.09:311][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-05.22.09:311][817]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2017, 9:22:09 PM)
+[2017.10.22-05.22.09:311][817]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.22-05.22.09:323][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011618s)
+[2017.10.22-05.22.09:323][817]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.22-05.22.09:323][817]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2017.10.22-05.22.09:323][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012485s)
+[2017.10.22-05.22.09:359][817]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-05.22.09:368][817]LogInit: FAudioDevice initialized.
+[2017.10.22-05.22.09:396][817]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-05.22.09:398][817]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.22-01.22.09
+[2017.10.22-05.22.09:398][817]LogWorld: Bringing up level for play took: 0.001760
+[2017.10.22-05.22.09:403][817]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.656
+[2017.10.22-05.22.09:404][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.22.13:414][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.22.13:447][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.22-05.22.19:405][833]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-05.22.19:419][833]Cmd: MAP LOAD FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.22-05.22.19:419][833]LightingResults: New page: Lighting Build
+[2017.10.22-05.22.19:420][833]LoadErrors: New page: Loading map: TestLevel.umap
+[2017.10.22-05.22.19:420][833]MapCheck: New page: Map Check
+[2017.10.22-05.22.19:421][833]LightingResults: New page: Lighting Build
+[2017.10.22-05.22.19:436][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.22-05.22.19:460][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.22-05.22.19:512][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.467ms to complete.
+[2017.10.22-05.22.19:512][833]LogFileHelpers: Loading map 'TestLevel' took 0.093
+[2017.10.22-05.22.21:964][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-05.22.21:974][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-05.22.21:974][ 25]PIE: New page: PIE session: TestLevel (Oct 21, 2017, 9:22:21 PM)
+[2017.10.22-05.22.21:974][ 25]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-05.22.21:975][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001031s)
+[2017.10.22-05.22.21:975][ 25]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-05.22.21:976][ 25]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2017.10.22-05.22.21:976][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001713s)
+[2017.10.22-05.22.21:989][ 25]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-05.22.21:998][ 25]LogInit: FAudioDevice initialized.
+[2017.10.22-05.22.22:030][ 25]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-05.22.22:031][ 25]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-01.22.22
+[2017.10.22-05.22.22:031][ 25]LogWorld: Bringing up level for play took: 0.000678
+[2017.10.22-05.22.22:037][ 25]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.022
+[2017.10.22-05.22.37:287][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_8:PersistentLevel.FloorTileBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0027
+[2017.10.22-05.22.37:287][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_8:PersistentLevel.FloorTileBP_C_0
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0046
+[2017.10.22-05.22.37:288][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_6:PersistentLevel.FloorTileBP_C_38
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0027
+[2017.10.22-05.22.37:288][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_6:PersistentLevel.FloorTileBP_C_38
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0046
+[2017.10.22-05.22.37:314][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_6:PersistentLevel.FloorTileBP_C_38
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0027
+[2017.10.22-05.22.37:314][983]LogScript: Warning: Accessed None trying to read property CoinArea
+	FloorTileBP_C /Engine/Transient.World_6:PersistentLevel.FloorTileBP_C_38
+	Function /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C:spawnCoins:0046
+[2017.10.22-05.22.51:890][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.22-05.22.51:918][373]LogSavePackage: Save=12.71ms
+[2017.10.22-05.22.51:918][373]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/TestLevelD85F6BDE4D218B9EB583C4B5DE9B37A2.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel.umap'
+[2017.10.22-05.22.51:919][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel.umap
+[2017.10.22-05.22.51:932][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel_BuiltData" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel_BuiltData.uasset" SILENT=true
+[2017.10.22-05.22.51:937][373]LogSavePackage: Save=2.58ms
+[2017.10.22-05.22.51:937][373]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/TestLevel_BuiltData0C3ECD4B42C4A5F37211AFB226A76BB4.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel_BuiltData.uasset'
+[2017.10.22-05.22.51:938][373]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/Levels/TestLevel_BuiltData.uasset
+[2017.10.22-05.22.53:481][558]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-05.22.53:489][558]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.22-05.22.53:497][558]LogPlayLevel: [PlayLevel] Compiling FloorTileBP before play...
+[2017.10.22-05.22.53:503][558]LogPlayLevel: [PlayLevel]   Compiling RunGameMode as a dependent...
+[2017.10.22-05.22.53:508][558]LogBlueprint: Error: [Compiler FloorTileBP] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.10.22-05.22.53:508][558]LogBlueprint: Error: [Compiler FloorTileBP] This blueprint (self) is not a BoxComponent, therefore ' Target ' must have a connection.
+[2017.10.22-05.22.53:536][558]LogBlueprint: Error: [Compiler FloorTileBP] Variable node  Get BoxExtent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.10.22-05.22.53:536][558]LogBlueprint: Error: [Compiler FloorTileBP] Variable node  Get RelativeLocation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.10.22-05.22.53:538][558]LogBlueprint: Warning: [Compiler FloorTileBP] [0510.81] Compile of FloorTileBP failed. 4 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP)
+[2017.10.22-05.22.53:607][558]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (2 blueprints)
+[2017.10.22-05.22.53:607][558]BlueprintLog: Blueprint FloorTileBP failed to compile
+[2017.10.22-05.23.04:076][485]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.23.04:095][485]LogBlueprint: Error: [Compiler FloorTileBP] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.10.22-05.23.04:095][485]LogBlueprint: Error: [Compiler FloorTileBP] This blueprint (self) is not a BoxComponent, therefore ' Target ' must have a connection.
+[2017.10.22-05.23.04:097][485]LogBlueprint: Error: [Compiler FloorTileBP] Variable node  Get BoxExtent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.10.22-05.23.04:097][485]LogBlueprint: Error: [Compiler FloorTileBP] Variable node  Get RelativeLocation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.10.22-05.23.04:173][485]LogBlueprint: Warning: [Compiler FloorTileBP] [0521.44] Compile of FloorTileBP failed. 4 Fatal Issue(s) 0 Warning(s) [in 96 ms] (/Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP)
+[2017.10.22-05.23.04:673][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-05.23.04:720][541]LogSavePackage: Save=44.54ms
+[2017.10.22-05.23.04:720][541]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP2DD2AF224B10F713D3BEEAB547B9D652.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-05.23.04:723][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-05.23.21:843][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-05.23.21:886][250]LogSavePackage: Save=40.73ms
+[2017.10.22-05.23.21:886][250]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBPC06C0D7A4956EA915DAC709C47676F18.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-05.23.21:889][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-05.23.22:915][373]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-05.23.24:936][533]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-05.23.24:945][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-05.23.24:945][533]PIE: New page: PIE session: TestLevel (Oct 21, 2017, 9:23:24 PM)
+[2017.10.22-05.23.24:945][533]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-05.23.24:947][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001051s)
+[2017.10.22-05.23.24:947][533]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-05.23.24:947][533]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2017.10.22-05.23.24:947][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001761s)
+[2017.10.22-05.23.24:960][533]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-05.23.24:969][533]LogInit: FAudioDevice initialized.
+[2017.10.22-05.23.25:000][533]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-05.23.25:001][533]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-01.23.25
+[2017.10.22-05.23.25:001][533]LogWorld: Bringing up level for play took: 0.000814
+[2017.10.22-05.23.25:007][533]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.948
+[2017.10.22-05.23.31:252][281]Cmd: RestartLevel
+[2017.10.22-05.23.31:260][282]LogNet: Browse: /Game/Levels/TestLevel?restart
+[2017.10.22-05.23.31:260][282]LogLoad: LoadMap: /Game/Levels/TestLevel
+[2017.10.22-05.23.31:275][282]Cmd: MEM
+[2017.10.22-05.23.31:287][282]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-05.23.31:287][282]LogMemory: Process Physical Memory: 1636.51 MB used, 1656.19 MB peak
+[2017.10.22-05.23.31:287][282]LogMemory: Process Virtual Memory: 2710.63 MB used, 2856.72 MB peak
+[2017.10.22-05.23.31:287][282]LogMemory: Physical Memory: 8290.78 MB used,  8056.34 MB free, 16347.12 MB total
+[2017.10.22-05.23.31:287][282]LogMemory: Virtual Memory: 3689.00 MB used,  8056.34 MB free, 134217728.00 MB total
+[2017.10.22-05.23.31:287][282]LogMemory: 
+[2017.10.22-05.23.31:287][282]Allocator Stats for TBB: (not implemented)
+[2017.10.22-05.23.31:287][282]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-05.23.31:289][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2017.10.22-05.23.31:289][282]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-05.23.31:289][282]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2017.10.22-05.23.31:289][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001834s)
+[2017.10.22-05.23.31:289][282]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-05.23.31:290][282]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-01.23.31
+[2017.10.22-05.23.31:291][282]LogWorld: Bringing up level for play took: 0.000794
+[2017.10.22-05.23.31:297][282]LogLoad: Took 0.036824 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestLevel)
+[2017.10.22-12.47.11:559][842]LogHttp: Warning: 000001560912C280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.22-12.47.11:560][842]LogHttp: Warning: 000001560912C280: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2017.10.22-12.47.11:560][842]LogHttp: Warning: 000001560912C280: libcurl info message cache 1 (Closing connection 4)
+[2017.10.22-12.47.11:560][842]LogHttp: Warning: 000001560912C280: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.22-12.47.11:560][842]LogHttp: Warning: 000001560912C280: libcurl info message cache 3 (Closing connection 5)
+[2017.10.22-17.57.31:036][993]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.195
+[2017.10.22-17.57.31:090][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ItemBP] ([1] browsable assets)...
+[2017.10.22-17.57.31:108][993]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ItemBP.ItemBP]
+[2017.10.22-17.57.31:108][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ItemBP]
+[2017.10.22-17.57.31:180][993]LogSavePackage: Save=50.37ms
+[2017.10.22-17.57.31:180][993]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP_Auto13214B46F4D3E9444144653BDCF9C3DF5.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ItemBP_Auto1.uasset'
+[2017.10.22-17.57.31:191][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ItemBP_Auto1.uasset
+[2017.10.22-17.57.31:191][993]LogFileHelpers: Auto-saving content packages took 0.153
+[2017.10.22-17.58.05:597][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-17.58.05:628][ 41]LogSavePackage: Save=19.27ms
+[2017.10.22-17.58.05:628][ 41]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP1EBA9D6F47E0AE8102A96C99D21980A8.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-17.58.05:630][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-17.58.06:249][112]BlueprintLog: New page: Compile ItemBP
+[2017.10.22-17.58.11:709][681]LogRenderer: Reallocating scene render targets to support 1224x776 Format 10 NumSamples 1 (Frame:1).
+[2017.10.22-17.58.51:200][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-17.58.51:519][361]LogSavePackage: Save=115.49ms
+[2017.10.22-17.58.51:519][361]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBPA903054240BB6B050465E5836621ACC3.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-17.58.51:533][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-17.58.52:251][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-17.58.52:300][443]LogSavePackage: Save=46.72ms
+[2017.10.22-17.58.52:300][443]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP1BC81F654A43C9BE9F71BCA25C746137.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-17.58.52:301][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-17.58.52:664][485]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-17.59.14:102][954]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-18.00.43:395][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.00.43:445][552]LogSavePackage: Save=48.18ms
+[2017.10.22-18.00.43:445][552]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP31B3DCA4483144568F4BDF8BD3286326.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.00.43:448][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.00.43:984][616]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-18.00.53:105][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.00.53:156][653]LogSavePackage: Save=48.86ms
+[2017.10.22-18.00.53:156][653]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP875D25424208812FB669E0B3CA200AD8.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.00.53:158][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.00.54:145][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.00.54:195][769]LogSavePackage: Save=48.07ms
+[2017.10.22-18.00.54:195][769]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP1529548940E6C4BD8A9EF7B064E91C15.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.00.54:196][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.00.54:541][810]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-18.01.38:657][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.01.38:711][ 27]LogSavePackage: Save=51.23ms
+[2017.10.22-18.01.38:711][ 27]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBPD2DEE2CD445AA788E006928A45D0AE1A.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.01.38:714][ 27]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.01.39:109][ 74]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-18.02.52:008][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.02.52:063][689]LogSavePackage: Save=52.67ms
+[2017.10.22-18.02.52:063][689]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP63965E27486D1508658390996737F106.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.02.52:066][689]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.02.52:486][739]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-18.03.06:637][408]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.03.06:680][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.03.06:727][408]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:03:06 AM)
+[2017.10.22-18.03.06:734][408]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.03.06:882][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148562s)
+[2017.10.22-18.03.06:900][408]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.03.06:948][408]LogPlayLevel: PIE: World Init took: (0.065701s)
+[2017.10.22-18.03.06:948][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.214557s)
+[2017.10.22-18.03.07:041][408]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.03.07:059][408]LogInit: FAudioDevice initialized.
+[2017.10.22-18.03.07:141][408]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.03.07:153][408]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.03.07
+[2017.10.22-18.03.07:153][408]LogWorld: Bringing up level for play took: 0.011550
+[2017.10.22-18.03.07:438][408]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1.392
+[2017.10.22-18.03.07:597][409]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064877 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2017.10.22-18.03.46:799][926]LogSlate: Took 0.061410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.22-18.04.52:081][686]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.10.22-18.04.53:089][732]LogSavePackage: Save=81.51ms
+[2017.10.22-18.04.53:089][732]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ThirdPersonCharacter99D90B524438963EA04E95A4903B28A7.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.10.22-18.04.53:107][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.10.22-18.06.18:012][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.06.18:035][747]LogSavePackage: Save=19.87ms
+[2017.10.22-18.06.18:035][747]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBPF4B46C2C45D61BF73174D48D9E32D595.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.06.18:037][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.06.20:490][ 37]BlueprintLog: New page: Compile ItemBP
+[2017.10.22-18.06.21:221][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.06.21:244][ 97]LogSavePackage: Save=21.08ms
+[2017.10.22-18.06.21:245][ 97]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBPE9BE943C469E52B7B607EF86ED981590.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.06.21:246][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.06.24:104][439]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.06.24:117][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.06.24:117][439]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:06:24 AM)
+[2017.10.22-18.06.24:117][439]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.06.24:119][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001070s)
+[2017.10.22-18.06.24:119][439]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.06.24:119][439]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2017.10.22-18.06.24:119][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001839s)
+[2017.10.22-18.06.24:135][439]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.06.24:148][439]LogInit: FAudioDevice initialized.
+[2017.10.22-18.06.24:177][439]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.06.24:178][439]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.06.24
+[2017.10.22-18.06.24:179][439]LogWorld: Bringing up level for play took: 0.000820
+[2017.10.22-18.06.24:188][439]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.143
+[2017.10.22-18.06.25:259][563]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.25:356][564]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.25:531][585]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.29:191][ 23]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.29:878][105]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.31:494][298]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.31:703][323]LogAudio: Warning: Detected orphaned looping sound 'Steam01_Cue'.
+[2017.10.22-18.06.34:471][647]Cmd: RestartLevel
+[2017.10.22-18.06.34:650][648]LogNet: Browse: /Game/Levels/TestLevel?restart
+[2017.10.22-18.06.34:652][648]LogLoad: LoadMap: /Game/Levels/TestLevel
+[2017.10.22-18.06.34:686][648]Cmd: MEM
+[2017.10.22-18.06.34:699][648]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-18.06.34:699][648]LogMemory: Process Physical Memory: 942.82 MB used, 2356.19 MB peak
+[2017.10.22-18.06.34:699][648]LogMemory: Process Virtual Memory: 3307.84 MB used, 3307.84 MB peak
+[2017.10.22-18.06.34:699][648]LogMemory: Physical Memory: 6294.48 MB used,  10052.63 MB free, 16347.12 MB total
+[2017.10.22-18.06.34:699][648]LogMemory: Virtual Memory: 4241.54 MB used,  10052.63 MB free, 134217728.00 MB total
+[2017.10.22-18.06.34:699][648]LogMemory: 
+[2017.10.22-18.06.34:699][648]Allocator Stats for TBB: (not implemented)
+[2017.10.22-18.06.34:709][648]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.06.34:710][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2017.10.22-18.06.34:711][648]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.06.34:711][648]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.10.22-18.06.34:711][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001836s)
+[2017.10.22-18.06.34:711][648]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.06.34:712][648]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.06.34
+[2017.10.22-18.06.34:712][648]LogWorld: Bringing up level for play took: 0.000763
+[2017.10.22-18.06.34:722][648]LogLoad: Took 0.070555 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestLevel)
+[2017.10.22-18.06.50:104][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.06.50:128][436]LogSavePackage: Save=21.02ms
+[2017.10.22-18.06.50:128][436]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP9A4AE0094BD2061506765ABE86DD3BC3.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.06.50:130][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.06.50:925][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.06.50:942][529]LogSavePackage: Save=14.71ms
+[2017.10.22-18.06.50:942][529]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP586BE75340794DA1230EA4A6F1A26AF6.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.06.50:943][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.06.51:221][562]BlueprintLog: New page: Compile ItemBP
+[2017.10.22-18.06.52:220][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.06.52:244][655]LogSavePackage: Save=21.29ms
+[2017.10.22-18.06.52:244][655]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP16B0DE7749A181A3DC38E09F92C91D02.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.06.52:245][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.06.53:671][822]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.06.53:684][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.06.53:685][822]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:06:53 AM)
+[2017.10.22-18.06.53:685][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.06.53:686][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001760s)
+[2017.10.22-18.06.53:687][822]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.06.53:687][822]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.10.22-18.06.53:687][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.002698s)
+[2017.10.22-18.06.53:702][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.06.53:713][822]LogInit: FAudioDevice initialized.
+[2017.10.22-18.06.53:741][822]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.06.53:742][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.06.53
+[2017.10.22-18.06.53:742][822]LogWorld: Bringing up level for play took: 0.000735
+[2017.10.22-18.06.53:753][822]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.293
+[2017.10.22-18.08.33:965][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.08.33:989][728]LogSavePackage: Save=21.81ms
+[2017.10.22-18.08.33:989][728]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP2ED2673A4240456F60DBEA9A40567751.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.08.33:991][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.08.34:793][823]BlueprintLog: New page: Compile ItemBP
+[2017.10.22-18.08.35:385][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ItemBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset" SILENT=true
+[2017.10.22-18.08.35:409][867]LogSavePackage: Save=22.22ms
+[2017.10.22-18.08.35:409][867]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/ItemBP5CFC849242455ED9ED5C89970E28D782.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset'
+[2017.10.22-18.08.35:410][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/ItemBP.uasset
+[2017.10.22-18.08.39:381][343]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.08.39:394][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.08.39:394][343]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:08:39 AM)
+[2017.10.22-18.08.39:394][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.08.39:396][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001187s)
+[2017.10.22-18.08.39:396][343]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.08.39:396][343]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2017.10.22-18.08.39:396][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001904s)
+[2017.10.22-18.08.39:412][343]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.08.39:425][343]LogInit: FAudioDevice initialized.
+[2017.10.22-18.08.39:462][343]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.08.39:467][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.08.39
+[2017.10.22-18.08.39:468][343]LogWorld: Bringing up level for play took: 0.002609
+[2017.10.22-18.08.39:497][343]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.548
+[2017.10.22-18.08.42:171][663]Cmd: RestartLevel
+[2017.10.22-18.08.42:179][664]LogNet: Browse: /Game/Levels/TestLevel?restart
+[2017.10.22-18.08.42:179][664]LogLoad: LoadMap: /Game/Levels/TestLevel
+[2017.10.22-18.08.42:196][664]Cmd: MEM
+[2017.10.22-18.08.42:210][664]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-18.08.42:210][664]LogMemory: Process Physical Memory: 1074.50 MB used, 2356.19 MB peak
+[2017.10.22-18.08.42:210][664]LogMemory: Process Virtual Memory: 3386.79 MB used, 3460.11 MB peak
+[2017.10.22-18.08.42:210][664]LogMemory: Physical Memory: 6412.01 MB used,  9935.11 MB free, 16347.12 MB total
+[2017.10.22-18.08.42:210][664]LogMemory: Virtual Memory: 4325.48 MB used,  9935.11 MB free, 134217728.00 MB total
+[2017.10.22-18.08.42:210][664]LogMemory: 
+[2017.10.22-18.08.42:210][664]Allocator Stats for TBB: (not implemented)
+[2017.10.22-18.08.42:210][664]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.08.42:211][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001069s)
+[2017.10.22-18.08.42:212][664]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.08.42:212][664]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2017.10.22-18.08.42:212][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001903s)
+[2017.10.22-18.08.42:212][664]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.08.42:213][664]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.08.42
+[2017.10.22-18.08.42:213][664]LogWorld: Bringing up level for play took: 0.000686
+[2017.10.22-18.08.42:225][664]LogLoad: Took 0.045798 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestLevel)
+[2017.10.22-18.10.09:730][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:741][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:742][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:744][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:759][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:759][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:761][859]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:771][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:772][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:773][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:774][860]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:784][861]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:786][861]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:796][862]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:798][862]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:808][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:808][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:810][863]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:821][864]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:823][864]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:833][865]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:835][865]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:845][866]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:846][866]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:847][866]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:857][867]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:859][867]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:869][868]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:870][868]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:880][869]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:882][869]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:893][870]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:903][871]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:905][871]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:916][872]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:927][873]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.09:938][874]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:787][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:788][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:789][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:801][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:803][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:812][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:813][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:815][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:825][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:826][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:837][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:839][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:849][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:851][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:861][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:863][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:873][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:875][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:884][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:885][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:887][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:897][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:899][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:909][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:910][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:911][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:921][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:923][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:933][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:935][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:945][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:947][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:958][203]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:969][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:980][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.13:991][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:002][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:013][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:024][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:035][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:045][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:055][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:058][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:067][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:069][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:079][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:080][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:082][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:092][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:094][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:104][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:106][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:115][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:117][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:128][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:138][219]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:140][219]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:150][220]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:152][220]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:162][221]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:164][221]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:174][222]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:175][222]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:186][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:187][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:198][224]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:209][225]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:219][226]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:229][227]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:231][227]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:242][228]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:251][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:253][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:263][230]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:265][230]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:276][231]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:286][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:287][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:298][233]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:308][234]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:310][234]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:321][235]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:323][235]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:332][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:334][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:344][237]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:345][237]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:356][238]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:367][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:377][240]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:388][241]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:399][242]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:410][243]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:420][244]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:421][244]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:431][245]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:433][245]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:444][246]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:454][247]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:455][247]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:466][248]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:476][249]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:487][250]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:498][251]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:508][252]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:519][253]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_419' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:530][254]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.14:540][255]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HorizontalBox_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.22-18.10.31:376][727]LogSlate: Took 0.045772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.22-18.13.02:614][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UMG/RunHUD" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset" SILENT=true
+[2017.10.22-18.13.02:629][955]LogSavePackage: Save=13.13ms
+[2017.10.22-18.13.02:629][955]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunHUD7FADE90341F8AE439618AEBB9CA1E056.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset'
+[2017.10.22-18.13.02:631][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset
+[2017.10.22-18.13.05:232][266]BlueprintLog: New page: Compile RunHUD
+[2017.10.22-18.13.06:047][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UMG/RunHUD" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset" SILENT=true
+[2017.10.22-18.13.06:088][352]LogSavePackage: Save=14.48ms
+[2017.10.22-18.13.06:088][352]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunHUD927F723C4986214A825D7981B3699A92.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset'
+[2017.10.22-18.13.06:089][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/UMG/RunHUD.uasset
+[2017.10.22-18.13.28:738][ 11]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-18.13.47:235][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.13.47:277][206]LogSavePackage: Save=39.60ms
+[2017.10.22-18.13.47:277][206]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode5914735E42CA26BA8B6C64BB9A8DD9B6.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.13.47:302][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.14.02:811][ 57]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.14.03:568][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.14.03:589][117]LogSavePackage: Save=17.18ms
+[2017.10.22-18.14.03:589][117]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode47CC408242685BFF0672A0999983782E.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.14.03:591][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.14.07:718][612]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.14.07:765][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.14.07:765][612]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:14:07 AM)
+[2017.10.22-18.14.07:765][612]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.14.07:767][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001195s)
+[2017.10.22-18.14.07:780][612]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.14.07:780][612]LogPlayLevel: PIE: World Init took: (0.013918s)
+[2017.10.22-18.14.07:781][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.015294s)
+[2017.10.22-18.14.07:798][612]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.14.07:811][612]LogInit: FAudioDevice initialized.
+[2017.10.22-18.14.07:840][612]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.14.07:841][612]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.14.07
+[2017.10.22-18.14.07:841][612]LogWorld: Bringing up level for play took: 0.000690
+[2017.10.22-18.14.07:856][612]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.19
+[2017.10.22-18.14.18:657][889]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.14.18:673][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.14.18:673][889]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:14:18 AM)
+[2017.10.22-18.14.18:673][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.14.18:674][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001060s)
+[2017.10.22-18.14.18:675][889]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.14.18:675][889]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2017.10.22-18.14.18:675][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001797s)
+[2017.10.22-18.14.18:692][889]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.14.18:703][889]LogInit: FAudioDevice initialized.
+[2017.10.22-18.14.18:732][889]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.14.18:734][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.14.18
+[2017.10.22-18.14.18:734][889]LogWorld: Bringing up level for play took: 0.000700
+[2017.10.22-18.14.18:745][889]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.7
+[2017.10.22-18.21.52:142][334]LogSavePackage: Save=21.88ms
+[2017.10.22-18.21.52:142][334]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_ChildC33C850548C66DC76670E59E43670638.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset'
+[2017.10.22-18.21.52:144][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset
+[2017.10.22-18.21.53:503][489]LogSavePackage: Save=15.80ms
+[2017.10.22-18.21.53:503][489]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_Child2E545315421C4C0C1769DEAB6BC648A5.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset'
+[2017.10.22-18.21.53:504][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset
+[2017.10.22-18.21.54:449][600]BlueprintLog: New page: Compile FloorTileBP_Child
+[2017.10.22-18.22.31:176][864]BlueprintLog: New page: Compile FloorTileBP_Child
+[2017.10.22-18.22.31:825][904]LogSavePackage: Save=21.41ms
+[2017.10.22-18.22.31:825][904]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_Child81F37DD041E527E1FC3C6CB56F4D7C20.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset'
+[2017.10.22-18.22.31:827][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_Child.uasset
+[2017.10.22-18.23.07:744][888]LogClass: Warning: Type mismatch in FloorTiles of SKEL_RunGameMode_C - Previous (ObjectProperty) Current(MapProperty) for package:  FObjectReader
+[2017.10.22-18.23.30:438][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.23.30:473][433]LogSavePackage: Save=31.23ms
+[2017.10.22-18.23.30:473][433]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode44E0FED7456DC327883CBBB99A6F5FC5.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.23.30:475][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.23.39:909][250]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.23.39:931][250]LogBlueprint: Error: [Compiler RunGameMode] In use pin  Floor Tiles  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.22-18.23.39:932][250]LogBlueprint: Warning: [Compiler FloorTileBP] Could not find the function 'AddFloorTile' called from  Add Floor Tile
+[2017.10.22-18.23.39:933][250]LogBlueprint: Warning: [Compiler RunGameMode] Can't parse default value '/Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP_C' for  <None> . Property: FloorTiles.
+[2017.10.22-18.23.39:945][250]LogBlueprint: Warning: [Compiler FloorTileBP] [7357.23] Compile of FloorTileBP successful, but with 1 Warning(s) [in 32 ms] (/Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP)
+[2017.10.22-18.23.40:162][250]LogBlueprint: Warning: [Compiler RunGameMode] [7357.44] Compile of RunGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 252 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2017.10.22-18.23.43:119][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.23.43:139][600]LogSavePackage: Save=17.19ms
+[2017.10.22-18.23.43:139][600]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameModeA394BF984E42D0FAAB43D1A1A56164BF.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.23.43:141][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.23.44:247][732]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.23.44:269][732]LogBlueprint: Error: [Compiler RunGameMode] In use pin  Floor Tiles  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.22-18.23.44:270][732]LogBlueprint: Warning: [Compiler FloorTileBP] Could not find the function 'AddFloorTile' called from  Add Floor Tile
+[2017.10.22-18.23.44:283][732]LogBlueprint: Warning: [Compiler FloorTileBP] [7361.57] Compile of FloorTileBP successful, but with 1 Warning(s) [in 33 ms] (/Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP)
+[2017.10.22-18.23.44:499][732]LogBlueprint: Warning: [Compiler RunGameMode] [7361.78] Compile of RunGameMode failed. 1 Fatal Issue(s) 0 Warning(s) [in 251 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2017.10.22-18.25.20:904][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.25.20:926][191]LogSavePackage: Save=19.42ms
+[2017.10.22-18.25.20:926][191]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode7D911CF54C1829FDB247F9A0C171564D.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.25.20:928][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.25.22:180][340]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.25.42:286][694]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.SKEL_FloorTileBP_RampUp_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:200][237]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/ThirdPersonBP/Blueprints/FloorTileBP_Child.PackageMetaData'
+[2017.10.22-18.26.04:263][237]LogSavePackage: Save=17.67ms
+[2017.10.22-18.26.04:263][237]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampUp3800FB234D7339D9CCF10BB5DD6F3A02.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.uasset'
+[2017.10.22-18.26.04:265][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.uasset
+[2017.10.22-18.26.08:963][755]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.26.24:516][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.26.24:540][546]LogSavePackage: Save=20.57ms
+[2017.10.22-18.26.24:540][546]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameModeA65940854D49097A94518B967A8DF219.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.26.24:542][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.26.25:785][693]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.26.26:487][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.26.26:510][729]LogSavePackage: Save=20.74ms
+[2017.10.22-18.26.26:510][729]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode53786FCF48DC50719D06E6A1A915E0B4.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.26.26:511][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.26.27:734][874]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.26.27:752][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.26.27:752][874]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:26:27 AM)
+[2017.10.22-18.26.27:752][874]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.26.27:753][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001081s)
+[2017.10.22-18.26.27:754][874]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.26.27:754][874]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2017.10.22-18.26.27:754][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001923s)
+[2017.10.22-18.26.27:772][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.26.27:785][874]LogInit: FAudioDevice initialized.
+[2017.10.22-18.26.27:815][874]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.26.27:817][874]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.26.27
+[2017.10.22-18.26.27:817][874]LogWorld: Bringing up level for play took: 0.000712
+[2017.10.22-18.26.27:828][874]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.217
+[2017.10.22-18.28.37:077][892]LogSavePackage: Save=21.74ms
+[2017.10.22-18.28.37:077][892]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampDownC23A3DCA4B0A834D2FC965B04112CA35.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset'
+[2017.10.22-18.28.37:079][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset
+[2017.10.22-18.28.37:905][980]LogSavePackage: Save=16.01ms
+[2017.10.22-18.28.37:905][980]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampDown7E8C82A042BE7CC626F3D6B5FCA911EA.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset'
+[2017.10.22-18.28.37:906][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset
+[2017.10.22-18.28.38:308][ 25]BlueprintLog: New page: Compile FloorTileBP_RampDown
+[2017.10.22-18.28.50:954][454]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-18.28.58:538][341]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.28.59:359][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.28.59:384][380]LogSavePackage: Save=20.64ms
+[2017.10.22-18.28.59:384][380]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameModeC0AC8C9046717429EC97FEA8F26900FB.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.28.59:386][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.29.00:129][464]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.29.00:148][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.29.00:148][464]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:29:00 AM)
+[2017.10.22-18.29.00:148][464]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.29.00:150][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2017.10.22-18.29.00:150][464]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.29.00:150][464]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.10.22-18.29.00:150][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001857s)
+[2017.10.22-18.29.00:170][464]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.29.00:183][464]LogInit: FAudioDevice initialized.
+[2017.10.22-18.29.00:210][464]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.29.00:212][464]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.29.00
+[2017.10.22-18.29.00:212][464]LogWorld: Bringing up level for play took: 0.000725
+[2017.10.22-18.29.00:225][464]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.18
+[2017.10.22-18.30.12:979][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.30.13:003][971]LogSavePackage: Save=20.77ms
+[2017.10.22-18.30.13:003][971]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameModeC9B015E744105CE0DB4535BE7F80479C.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.30.13:005][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.36.26:101][228]BlueprintLog: New page: Compile FloorTileBP_RightCorner
+[2017.10.22-18.37.37:246][454]LogSavePackage: Save=17.78ms
+[2017.10.22-18.37.37:246][454]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCorner332717E24700AF93E33BD4BF214C2686.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset'
+[2017.10.22-18.37.37:248][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset
+[2017.10.22-18.38.20:304][460]BlueprintLog: New page: Compile FloorTileBP_RightCorner
+[2017.10.22-18.38.20:935][494]LogSavePackage: Save=17.99ms
+[2017.10.22-18.38.20:935][494]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCornerAC26350E40C4519DCB7657930008E61D.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset'
+[2017.10.22-18.38.20:938][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset
+[2017.10.22-18.39.06:381][813]LogSavePackage: Save=22.14ms
+[2017.10.22-18.39.06:381][813]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCorner8BBE23284007735AFA41759D1DCB495E.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset'
+[2017.10.22-18.39.06:383][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset
+[2017.10.22-18.39.53:171][169]LogSavePackage: Save=25.00ms
+[2017.10.22-18.39.53:171][169]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_LeftCorner48691EA342BDF26DF87993A47E3B6A67.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset'
+[2017.10.22-18.39.53:173][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset
+[2017.10.22-18.40.00:357][994]LogSavePackage: Save=18.73ms
+[2017.10.22-18.40.00:358][994]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_LeftCorner41FD30814D00B61F3B2034ACE9E6532A.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset'
+[2017.10.22-18.40.00:360][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset
+[2017.10.22-18.40.00:797][ 43]BlueprintLog: New page: Compile FloorTileBP_LeftCorner
+[2017.10.22-18.40.01:579][ 98]LogSavePackage: Save=24.05ms
+[2017.10.22-18.40.01:579][ 98]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_LeftCornerEADC338542AB089618B07A8544CB0CFB.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset'
+[2017.10.22-18.40.01:580][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset
+[2017.10.22-18.41.51:416][ 30]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.42.24:178][889]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.42.25:286][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.42.25:335][942]LogSavePackage: Save=45.63ms
+[2017.10.22-18.42.25:335][942]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameModeE597F93C4C0A5B2E549B738A1DE481D9.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.42.25:337][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.43.03:788][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.43.03:822][462]LogSavePackage: Save=30.29ms
+[2017.10.22-18.43.03:822][462]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode1B3255324775F5850EAFC0A4C1835C07.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.43.03:824][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.43.04:147][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.43.04:181][497]LogSavePackage: Save=30.56ms
+[2017.10.22-18.43.04:181][497]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode142810614FBEE44AB3D7E69779B38246.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.43.04:182][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.43.10:709][221]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.22-18.43.16:911][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.43.16:943][928]LogSavePackage: Save=29.58ms
+[2017.10.22-18.43.16:943][928]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode433AE02747F3AE58D44716849C4E7FF2.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.43.16:945][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.44.08:981][937]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.47.05:336][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.47.05:375][699]LogSavePackage: Save=36.52ms
+[2017.10.22-18.47.05:375][699]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode19C59CF549803BDA66BE5588A7B3E50D.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.47.05:378][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.47.28:842][136]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.47.30:139][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.47.30:193][205]LogSavePackage: Save=50.68ms
+[2017.10.22-18.47.30:193][205]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode060124454C2A57C4DE9A7ABC1C5CD94C.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.47.30:195][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-18.47.34:050][639]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.47.34:072][639]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.22-18.47.34:075][639]LogPlayLevel: [PlayLevel] Compiling FloorTileBP_RightCorner before play...
+[2017.10.22-18.47.34:299][639]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2017.10.22-18.47.34:299][639]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:47:34 AM)
+[2017.10.22-18.47.34:299][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.47.34:301][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001236s)
+[2017.10.22-18.47.34:301][639]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.47.34:301][639]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2017.10.22-18.47.34:301][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.002109s)
+[2017.10.22-18.47.34:322][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.47.34:336][639]LogInit: FAudioDevice initialized.
+[2017.10.22-18.47.34:366][639]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.47.34:368][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.47.34
+[2017.10.22-18.47.34:368][639]LogWorld: Bringing up level for play took: 0.000822
+[2017.10.22-18.47.34:378][639]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.333
+[2017.10.22-18.52.14:183][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-18.52.14:255][287]LogSavePackage: Save=68.68ms
+[2017.10.22-18.52.14:255][287]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBPA875199D4B678FDBF1B08AB46A8D7EB2.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-18.52.14:258][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-18.52.19:390][855]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.19:390][855]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.19:560][863]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.19:560][863]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.19:717][870]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.19:717][870]LogEditorTransaction: Undo Move Nodes
+[2017.10.22-18.52.19:869][876]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.19:869][876]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.20:018][883]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:018][883]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.20:179][892]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:179][892]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.20:352][911]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:352][911]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.20:489][926]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:489][926]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.20:668][946]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:668][946]LogEditorTransaction: Undo Change Number Pin Value
+[2017.10.22-18.52.20:848][956]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.20:848][956]LogEditorTransaction: Undo Change Number Pin Value
+[2017.10.22-18.52.21:021][966]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:021][966]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.21:177][983]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:177][983]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.21:352][994]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:352][994]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.21:539][  6]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:539][  6]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.21:722][ 18]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:722][ 18]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.21:896][ 29]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.21:896][ 29]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.22:073][ 40]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:073][ 40]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.22:251][ 51]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:251][ 51]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.22:426][ 62]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:426][ 62]LogEditorTransaction: Undo Split Struct Pin
+[2017.10.22-18.52.22:602][ 74]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:602][ 74]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.22:787][ 87]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:787][ 87]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.22:968][100]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.22:968][100]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.23:168][115]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.23:168][115]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.23:417][136]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.23:417][136]LogEditorTransaction: Undo Add Node
+[2017.10.22-18.52.23:665][153]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.23:665][153]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.24:130][207]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.24:130][207]LogEditorTransaction: Undo Move Node
+[2017.10.22-18.52.24:799][286]Cmd: TRANSACTION UNDO
+[2017.10.22-18.52.24:799][286]LogEditorTransaction: Undo Create Pin Link
+[2017.10.22-18.52.30:151][577]LogSavePackage: Save=24.63ms
+[2017.10.22-18.52.30:152][577]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_LeftCornerA07B95494587F00E7B063FB69BC62B4A.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset'
+[2017.10.22-18.52.30:154][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_LeftCorner.uasset
+[2017.10.22-18.52.31:826][770]BlueprintLog: New page: Compile FloorTileBP
+[2017.10.22-18.52.33:834][891]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.52.33:856][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.52.33:857][891]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:52:33 AM)
+[2017.10.22-18.52.33:857][891]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.52.33:858][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001213s)
+[2017.10.22-18.52.33:858][891]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.52.33:859][891]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2017.10.22-18.52.33:859][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.002030s)
+[2017.10.22-18.52.33:881][891]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.52.33:893][891]LogInit: FAudioDevice initialized.
+[2017.10.22-18.52.33:921][891]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.52.33:922][891]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.52.33
+[2017.10.22-18.52.33:923][891]LogWorld: Bringing up level for play took: 0.000697
+[2017.10.22-18.52.33:934][891]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.111
+[2017.10.22-18.52.40:179][610]Cmd: RestartLevel
+[2017.10.22-18.52.40:188][611]LogNet: Browse: /Game/Levels/TestLevel?restart
+[2017.10.22-18.52.40:188][611]LogLoad: LoadMap: /Game/Levels/TestLevel
+[2017.10.22-18.52.40:225][611]Cmd: MEM
+[2017.10.22-18.52.40:244][611]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-18.52.40:244][611]LogMemory: Process Physical Memory: 1903.99 MB used, 2356.19 MB peak
+[2017.10.22-18.52.40:244][611]LogMemory: Process Virtual Memory: 5032.38 MB used, 5033.63 MB peak
+[2017.10.22-18.52.40:244][611]LogMemory: Physical Memory: 7714.75 MB used,  8632.36 MB free, 16347.12 MB total
+[2017.10.22-18.52.40:244][611]LogMemory: Virtual Memory: 5954.99 MB used,  8632.36 MB free, 134217728.00 MB total
+[2017.10.22-18.52.40:244][611]LogMemory: 
+[2017.10.22-18.52.40:245][611]Allocator Stats for TBB: (not implemented)
+[2017.10.22-18.52.40:245][611]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.52.40:246][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001058s)
+[2017.10.22-18.52.40:246][611]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.52.40:246][611]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2017.10.22-18.52.40:246][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001816s)
+[2017.10.22-18.52.40:246][611]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.52.40:247][611]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.52.40
+[2017.10.22-18.52.40:248][611]LogWorld: Bringing up level for play took: 0.000792
+[2017.10.22-18.52.40:258][611]LogLoad: Took 0.070166 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestLevel)
+[2017.10.22-18.52.48:468][560]Cmd: RestartLevel
+[2017.10.22-18.52.48:476][561]LogNet: Browse: /Game/Levels/TestLevel?restart
+[2017.10.22-18.52.48:476][561]LogLoad: LoadMap: /Game/Levels/TestLevel
+[2017.10.22-18.52.48:499][561]Cmd: MEM
+[2017.10.22-18.52.48:518][561]LogMemory: Platform Memory Stats for Windows
+[2017.10.22-18.52.48:518][561]LogMemory: Process Physical Memory: 1904.52 MB used, 2356.19 MB peak
+[2017.10.22-18.52.48:518][561]LogMemory: Process Virtual Memory: 4936.04 MB used, 5196.42 MB peak
+[2017.10.22-18.52.48:518][561]LogMemory: Physical Memory: 7721.72 MB used,  8625.39 MB free, 16347.12 MB total
+[2017.10.22-18.52.48:518][561]LogMemory: Virtual Memory: 5941.74 MB used,  8625.39 MB free, 134217728.00 MB total
+[2017.10.22-18.52.48:518][561]LogMemory: 
+[2017.10.22-18.52.48:518][561]Allocator Stats for TBB: (not implemented)
+[2017.10.22-18.52.48:518][561]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.52.48:519][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2017.10.22-18.52.48:520][561]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.52.48:520][561]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.10.22-18.52.48:520][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.002003s)
+[2017.10.22-18.52.48:520][561]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.52.48:522][561]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.52.48
+[2017.10.22-18.52.48:522][561]LogWorld: Bringing up level for play took: 0.000781
+[2017.10.22-18.52.48:531][561]LogLoad: Took 0.054534 seconds to LoadMap(/Game/Levels/UEDPIE_0_TestLevel)
+[2017.10.22-18.53.23:269][376]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-18.53.24:905][475]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-18.53.24:928][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-18.53.24:928][475]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 10:53:24 AM)
+[2017.10.22-18.53.24:928][475]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-18.53.24:929][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001067s)
+[2017.10.22-18.53.24:930][475]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-18.53.24:930][475]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2017.10.22-18.53.24:930][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.001927s)
+[2017.10.22-18.53.24:951][475]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-18.53.24:964][475]LogInit: FAudioDevice initialized.
+[2017.10.22-18.53.24:992][475]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-18.53.24:993][475]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-14.53.24
+[2017.10.22-18.53.24:993][475]LogWorld: Bringing up level for play took: 0.000934
+[2017.10.22-18.53.25:005][475]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0.96
+[2017.10.22-18.54.29:979][608]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.020
+[2017.10.22-18.54.29:981][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP] ([1] browsable assets)...
+[2017.10.22-18.54.29:992][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP]
+[2017.10.22-18.54.29:992][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP]
+[2017.10.22-18.54.30:048][608]LogSavePackage: Save=53.60ms
+[2017.10.22-18.54.30:048][608]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_Auto23FE126BA47300DC5DCDABA8E1799577F.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_Auto2.uasset'
+[2017.10.22-18.54.30:050][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_Auto2.uasset
+[2017.10.22-18.54.30:051][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2017.10.22-18.54.30:051][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2017.10.22-18.54.30:102][608]LogSavePackage: Save=36.89ms
+[2017.10.22-18.54.30:102][608]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode_Auto20120AA9247DD552282A716A58362336E.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset'
+[2017.10.22-18.54.30:103][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset
+[2017.10.22-18.54.30:104][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown] ([1] browsable assets)...
+[2017.10.22-18.54.30:112][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.FloorTileBP_RampDown]
+[2017.10.22-18.54.30:112][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown]
+[2017.10.22-18.54.30:138][608]LogSavePackage: Save=21.67ms
+[2017.10.22-18.54.30:138][608]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampDown_Auto22AAD17E84597D10CDE49979995A2A1B7.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown_Auto2.uasset'
+[2017.10.22-18.54.30:139][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown_Auto2.uasset
+[2017.10.22-18.54.30:140][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp] ([1] browsable assets)...
+[2017.10.22-18.54.30:148][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp]
+[2017.10.22-18.54.30:148][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp]
+[2017.10.22-18.54.30:173][608]LogSavePackage: Save=21.95ms
+[2017.10.22-18.54.30:173][608]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampUp_Auto24D85AE3945CBC23B430FE2AF39434C6F.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp_Auto2.uasset'
+[2017.10.22-18.54.30:174][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp_Auto2.uasset
+[2017.10.22-18.54.30:175][608]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner] ([1] browsable assets)...
+[2017.10.22-18.54.30:183][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.FloorTileBP_RightCorner]
+[2017.10.22-18.54.30:183][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner]
+[2017.10.22-18.54.30:212][608]LogSavePackage: Save=24.17ms
+[2017.10.22-18.54.30:212][608]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCorner_Auto28773D5844FEB30B67BCEF39E42E8EE39.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner_Auto2.uasset'
+[2017.10.22-18.54.30:213][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner_Auto2.uasset
+[2017.10.22-18.54.30:213][608]LogFileHelpers: Auto-saving content packages took 0.233
+[2017.10.22-18.55.21:536][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-18.55.21:590][546]LogSavePackage: Save=36.77ms
+[2017.10.22-18.55.21:590][546]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode4A4D0D91478D48DA035623BCE5BC7201.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-18.55.21:593][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-19.54.13:189][724]BlueprintLog: New page: Compile RunGameMode
+[2017.10.22-19.54.14:777][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-19.54.14:833][807]LogSavePackage: Save=52.61ms
+[2017.10.22-19.54.14:833][807]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode5BA208D34CA026B9D5E0669FE394F127.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-19.54.14:836][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-19.54.15:682][906]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.22-19.54.15:706][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.22-19.54.15:707][906]PIE: New page: PIE session: TestLevel (Oct 22, 2017, 11:54:15 AM)
+[2017.10.22-19.54.15:707][906]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2017.10.22-19.54.15:711][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004631s)
+[2017.10.22-19.54.15:713][906]LogAIModule: Creating AISystem for world TestLevel
+[2017.10.22-19.54.15:713][906]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2017.10.22-19.54.15:713][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.006705s)
+[2017.10.22-19.54.15:736][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.22-19.54.15:748][906]LogInit: FAudioDevice initialized.
+[2017.10.22-19.54.15:780][906]LogLoad: Game class is 'RunGameMode_C'
+[2017.10.22-19.54.15:781][906]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.10.22-15.54.15
+[2017.10.22-19.54.15:781][906]LogWorld: Bringing up level for play took: 0.000877
+[2017.10.22-19.54.15:794][906]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0.251
+[2017.10.22-19.54.38:186][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2017.10.22-19.54.38:226][565]LogSavePackage: Save=36.55ms
+[2017.10.22-19.54.38:226][565]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/RunGameMode69A1A6404C065D6426A91793C390714A.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.10.22-19.54.38:227][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.10.22-19.55.18:262][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.019
+[2017.10.22-19.55.18:265][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP] ([1] browsable assets)...
+[2017.10.22-19.55.18:287][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP.FloorTileBP]
+[2017.10.22-19.55.18:287][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP]
+[2017.10.22-19.55.18:368][549]LogSavePackage: Save=77.27ms
+[2017.10.22-19.55.18:368][549]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_Auto39D59B0F049B92E555F91A29FC8FD56EE.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_Auto3.uasset'
+[2017.10.22-19.55.18:369][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_Auto3.uasset
+[2017.10.22-19.55.18:370][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown] ([1] browsable assets)...
+[2017.10.22-19.55.18:384][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.FloorTileBP_RampDown]
+[2017.10.22-19.55.18:384][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown]
+[2017.10.22-19.55.18:409][549]LogSavePackage: Save=22.01ms
+[2017.10.22-19.55.18:409][549]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampDown_Auto33D32A3D2442445A6BEC997B4EC17BCA4.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown_Auto3.uasset'
+[2017.10.22-19.55.18:410][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampDown_Auto3.uasset
+[2017.10.22-19.55.18:411][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp] ([1] browsable assets)...
+[2017.10.22-19.55.18:426][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.FloorTileBP_RampUp]
+[2017.10.22-19.55.18:426][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp]
+[2017.10.22-19.55.18:451][549]LogSavePackage: Save=21.65ms
+[2017.10.22-19.55.18:451][549]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampUp_Auto36D506B4244F69FB090B40EB03025BF24.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp_Auto3.uasset'
+[2017.10.22-19.55.18:452][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RampUp_Auto3.uasset
+[2017.10.22-19.55.18:453][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner] ([1] browsable assets)...
+[2017.10.22-19.55.18:467][549]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.FloorTileBP_RightCorner]
+[2017.10.22-19.55.18:467][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner]
+[2017.10.22-19.55.18:495][549]LogSavePackage: Save=23.85ms
+[2017.10.22-19.55.18:495][549]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCorner_Auto35CDB530D45A4D74F98F0BBBBD8BD26E9.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner_Auto3.uasset'
+[2017.10.22-19.55.18:496][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner_Auto3.uasset
+[2017.10.22-19.55.18:496][549]LogFileHelpers: Auto-saving content packages took 0.232
+[2017.10.22-19.56.17:650][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FloorTileBP" FILE="../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset" SILENT=true
+[2017.10.22-19.56.17:700][135]LogSavePackage: Save=47.39ms
+[2017.10.22-19.56.17:700][135]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP352CB57A4CE58CD292625A995A23F059.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset'
+[2017.10.22-19.56.17:702][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP.uasset
+[2017.10.22-19.56.35:958][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:119][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:443][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:527][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:622][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:716][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.56.36:803][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.22-19.57.00:888][225]LogSourceControl: Warning: '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/' is not part of a Git repository
+[2017.10.22-19.57.21:609][663]SourceControl: On branch master
+[2017.10.22-19.57.21:609][663]SourceControl: Initial commit
+[2017.10.22-19.57.21:609][663]SourceControl: Untracked files:
+[2017.10.22-19.57.21:609][663]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.22-19.57.21:609][663]SourceControl: 	.gitignore
+[2017.10.22-19.57.21:609][663]SourceControl: 	Config/
+[2017.10.22-19.57.21:609][663]SourceControl: 	Content/
+[2017.10.22-19.57.21:609][663]SourceControl: 	Tutorial.uproject
+[2017.10.22-19.57.21:609][663]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2017.10.22-19.57.26:841][284]SourceControl: fatal: D:/Programs/Unreal/UE_4.17/Engine/Content/: 'D:/Programs/Unreal/UE_4.17/Engine/Content/' is outside repository
+[2017.10.22-19.57.30:719][284]LogSavePackage: Save=14.88ms
+[2017.10.22-19.57.30:719][284]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampDownBF9D69C04A1C3437CE77E3A9D2F53264.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset'
+[2017.10.22-19.57.30:721][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampDown.uasset
+[2017.10.22-19.57.30:743][284]LogSavePackage: Save=14.80ms
+[2017.10.22-19.57.30:743][284]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RampUp10ACCD0E4AD0E2A9B696E2BD107727BF.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.uasset'
+[2017.10.22-19.57.30:745][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RampUp.uasset
+[2017.10.22-19.57.30:770][284]LogSavePackage: Save=17.52ms
+[2017.10.22-19.57.30:770][284]LogSavePackage: Moving '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Saved/FloorTileBP_RightCornerDE568F924E765E217D17839139990807.tmp' to '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset'
+[2017.10.22-19.57.30:772][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Content/ThirdPersonBP/Blueprints/FloorTileBP_RightCorner.uasset
+[2017.10.22-19.57.30:780][284]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Tutorial.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.10.22-19.57.36:062][284]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.256 s
+[2017.10.22-19.57.36:062][284]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.22-19.57.36:062][284]LogOutputDevice: Error: 
+[2017.10.22-19.57.36:062][284]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 810]
+[2017.10.22-19.57.36:062][284]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Penn/F17/CIS568/EndlessRunner/Tutorial/Tutorial.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: Stack: 
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E7883E36
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E760C2D2
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000E7624746
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E8C21BA5
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x00000000DDCC73C2
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x00000000DDCC7557
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000DA6878EE
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000DA643755
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000DA642D2D
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000DA657DD4
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-GitSourceControl.dll!0x00000000D27E32F9
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x00000000DDCCC27C
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E26DD0BF
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000E2F6D646
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor.exe!0x00000000B450534A
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor.exe!0x00000000B4513970
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor.exe!0x00000000B45139EA
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor.exe!0x00000000B45202D9
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: UE4Editor.exe!0x00000000B4521C47
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: KERNEL32.DLL!0x000000003E321FE4
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: ntdll.dll!0x000000003F6EEF91
+[2017.10.22-19.57.36:063][284]LogOutputDevice: Error: 
+[2017.10.22-19.57.36:079][284]LogStats:                SubmitErrorReport -  0.007 s

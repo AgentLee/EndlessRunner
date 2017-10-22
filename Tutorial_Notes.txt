@@ -1,0 +1,33 @@
+- 3rd Person Game Template
+- Third Person Character Blueprint
+    - Deleted:
+        - Gamepad 
+        - Mouse
+        - Move forward
+    - Moved CameraBoom socket offset 100+Z
+    - To make character turn left/right at a corner
+        - Make a new canTurn variable
+            - Branch --> desiredRotation --> Set true
+        - Make a new desiredRotation variable  
+            - CombineRotators --> to Set
+
+- If at any point you rename the Game Mode Blueprint, make sure the project settings is updated to run it.
+
+Items
+- Created new Actor Blueprint
+- Pickup items 
+    - Make collision OverlapOnlyPawn
+    - Add OnComponentBeginOverlap
+    - Cast Other Actor to player
+    - Add to function
+    - Play sound
+        - Don't forget to attach the actor location
+    - Destroy 
+
+Varying the level
+- Duplicate the base
+- Make changes to the duplicate
+- In RunGameMode
+    - Promote class to a variable
+        - Make it a floor tiles array
+        - Get a random index in the array
